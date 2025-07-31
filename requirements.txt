@@ -1,0 +1,14 @@
+certifi==2025.7.14
+cffi==1.17.1
+charset-normalizer==3.4.2
+idna==3.10
+numpy==2.3.2
+pycparser==2.22
+pyperclip==1.9.0
+pyqt5==5.15.11
+pyqt5-qt5==5.15.17
+pyqt5-sip==12.17.0
+requests==2.32.4
+scipy==1.16.1
+sounddevice==0.5.2
+urllib3==2.5.0
