@@ -10,7 +10,7 @@ Record and transcribe audio using Deepgram API.
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.13+
 - Deepgram API Key (get one from [Deepgram Console](https://deepgram.com/)).
 
 ## Installation
